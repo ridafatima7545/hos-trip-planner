@@ -1,0 +1,2 @@
+class TripPlanningError(Exception):
+    pass
