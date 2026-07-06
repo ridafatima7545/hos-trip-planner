@@ -2,6 +2,8 @@
 
 Django + React app for planning truck trips and generating daily log sheets.
 
+### Live app: https://hos-trip-planner-ten.vercel.app
+
 ## What It Does
 
 - Takes current location, pickup, dropoff, current cycle used and start time.
